@@ -1,0 +1,14 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "Albert Einstein was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. He received the 1921 Nobel Prize in Physics."
+  },
+  {
+    "fullname": "Steve Martin",
+    "born_date": "August 14, 1945",
+    "born_location": "in Waco, Texas, USA",
+    "description": "Steve Martin is an American comedian, actor, writer, and musician, known for his work in stand-up comedy and Hollywood films."
+  }
+]
